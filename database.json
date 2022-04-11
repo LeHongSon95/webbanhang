@@ -1,0 +1,213 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "giày Bitis"
+    },
+    {
+      "id": 2,
+      "name": "T-Shirt"
+    },
+    {
+      "id": 3,
+      "name": "giày Convese"
+    },
+    {
+      "id": 4,
+      "name": "quần jeans"
+    }
+  ],
+  "order_details": [
+    {
+      "id": 1,
+      "order_id": 1,
+      "product_id": 5,
+      "quantity": 2,
+      "unit_price": 30000000
+    },
+    {
+      "order_id": 5,
+      "product_id": 5,
+      "quantity": 2,
+      "unit_price": 650000,
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "created_date": "22-05=1995",
+      "customer_email": "lhps15272@fpt.edu.vn",
+      "customer_name": "Le Hong Son",
+      "customer_phone_number": "0376297865",
+      "customer_address": "TP.HCM",
+      "status": "Chờ xác nhận",
+      "id": 1
+    },
+    {
+      "created_date": "2022-04-08",
+      "customer_email": "sonaaaa@gamil.com",
+      "customer_name": "lê sơn",
+      "customer_phone_number": "03569696969",
+      "customer_address": "asdasd",
+      "status": "Chờ xác nhận",
+      "id": 2
+    },
+    {
+      "created_date": "2022-04-08",
+      "customer_email": "trinh.ntu.61markt@ntu.edu.vn",
+      "customer_name": "aa bb",
+      "customer_phone_number": "01885851481",
+      "customer_address": "1213213213dw",
+      "status": "Chờ xác nhận",
+      "id": 3
+    },
+    {
+      "created_date": "2022-04-08",
+      "customer_email": "trinh.ntu.61markt@ntu.edu.vn",
+      "customer_name": "a b",
+      "customer_phone_number": "03569696969",
+      "customer_address": "1",
+      "status": "Chờ xác nhận",
+      "id": 4
+    },
+    {
+      "created_date": "2022-04-08",
+      "customer_email": "Dev_Vai_Cu_Chuoi@gmail.com",
+      "customer_name": "a b",
+      "customer_phone_number": "03369691969",
+      "customer_address": "1213213213",
+      "status": "Chờ xác nhận",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "cat_id": 1,
+      "detail": "- Bộ đế LiteFlex và chất liệu IP “nhẹ như bay”, chiều cao đế đạt tới 5cm, cùng độ đàn hồi tối ưu >40%",
+      "id": 2,
+      "image": "https://muagiachinhhang.com/wp-content/uploads/2020/12/giay-bitis-hunterx2k20-multi-layer-forest-dsmh02800den-dswh02800den-768x768.jpg",
+      "name": "Biti’s HunterX2k20",
+      "price": 829000
+    },
+    {
+      "id": 3,
+      "name": "Bitis Hunter",
+      "cat_id": 1,
+      "detail": "– Dòng Street với khung nền vải canvas 10Oz bền bỉ để ghi dấu ấn của chính bạn.</br> – Công nghệ đế #LiteTraction nhẹ tối ưu 300gr/ chiếc, cùng chất liệu cao su EVA “nhẹ như bay” vẫn đảm bảo độ ma sát & bền bỉ của giày cũng như sự đàn hồi, êm ái.​",
+      "image": "https://muagiachinhhang.com/wp-content/uploads/2020/12/giay-bitis-hunter-vn-chien-thang-768x768.jpg",
+      "price": 799000
+    },
+    {
+      "cat_id": 1,
+      "detail": "- Đế giày bitis hunter 3 có một sự cải biến mới với độ linh hoạt cao và trọng lượng được tối ưu hóa, chất liệu chính của bộ đệm là Phylon nhưng có một thiết kế riêng biệt, độc đáo hơn.",
+      "id": 4,
+      "image": "https://couponngon.com/wp-content/uploads/2018/05/Giay_Bitis_Hunter-3-768x512.jpg",
+      "name": " Bitis huter 3",
+      "price": 650000
+    },
+    {
+      "cat_id": 1,
+      "detail": "- Đế phylon cao cấp siêu nhẹ, đàn hồi tốt đem lại cảm giác êm ái khi di chuyển.</br>- Cấu trúc lưới Airmesh thông thoáng tạo cảm giác mát mẻ cho đôi chân.",
+      "id": 5,
+      "image": "https://pro-biker.vn/image/cache/catalog/giay/bitis%20hunter/nam/originals/giay-bitis-hunter-originals-cam-1-800x800.jpg",
+      "name": "Bitis Hunter cho nam",
+      "price": 650000
+    },
+    {
+      "cat_id": 3,
+      "detail": "- Bông hoa hướng dương mang theo màu Nắng vàng ngọt ngào như rót mật.<br>- Hè đến, màu Vàng sẽ là tông màu phá đảo tủ đồ mùa Hè của các cô Nàng sành điệu. Và trong tiết trời như vậy, không gì phù hợp hơn một đôi Converse cổ Cao với tông màu Vàng tươi rực rỡ.",
+      "id": 6,
+      "name": "Converse Chuck 70s",
+      "image": "https://shopgiayreplica.com/wp-content/uploads/2018/11/converse-chuck-1970s-high-yellow-replica-800x600.jpeg",
+      "price": 629000
+    },
+    {
+      "cat_id": 3,
+      "detail": "No details of this item yet.",
+      "id": 7,
+      "image": "https://shopgiayreplica.com/wp-content/uploads/2018/11/converse-1970s-white-high-replica-800x600.jpg",
+      "name": "Converse Trắng Cao Cổ",
+      "price": 629000
+    },
+    {
+      "cat_id": 3,
+      "detail": "No details of this item yet.",
+      "id": 8,
+      "image": "https://shopgiayreplica.com/wp-content/uploads/2019/07/converse-1970s-thap-xanh-navy-replica-800x600.jpg",
+      "name": "ConverseXanh Navy",
+      "price": 648000
+    },
+    {
+      "cat_id": 3,
+      "detail": "No details of this item yet.",
+      "id": 9,
+      "image": "https://shopgiayreplica.com/wp-content/uploads/2018/07/converse-tim-trang-thap-replica-800x600.jpg",
+      "name": "Converse Trái Tim cổ thấp",
+      "price": 648000
+    },
+    {
+      "cat_id": 2,
+      "detail": "Make your gift memorable and special. Give a one-of-a-kind gift to Dad, to your friend or colleague on their birthday or on any occasion. We've got the best personalised tee for you! HIGH QUALITY, COMFORTABLE - Made from﻿ 100% cotton, allowing you to have ideal comfort for all-day wear. This personalised Tshirt comes in a band collar style.",
+      "id": 10,
+      "image": "https://sp.yimg.com/ib/th?id=OPE.sJYqBnVEM7B2Bw300C300&pid=21.1",
+      "name": "MYOG T-Shirt",
+      "price": 250000
+    },
+    {
+      "cat_id": 2,
+      "detail": "Quality brand T-shirt. <br>Direct to garment printing. <br>100% Ring Spun Cotton.",
+      "id": 11,
+      "image": "https://sp.yimg.com/ib/th?id=OPE.iEbrNxYVWggfPg300C300&pid=21.1",
+      "name": "T-Shirts Tees",
+      "price": 320000
+    },
+    {
+      "cat_id": 2,
+      "detail": "Lightweight Fabric --- 85% Polyester, 10% Cotton, 5% Elastane provides premium softness texture after machine wash.",
+      "id": 12,
+      "image": "https://sp.yimg.com/ib/th?id=OPE.sFf2q77DcLxOhQ300C300&pid=21.1",
+      "name": "RAISEVERN Unisex",
+      "price": 600000
+    },
+    {
+      "cat_id": 2,
+      "detail": "All-Over Print --- 3D printed T shirts design on both sides. Graphic short sleeve utilizing latest advanced technology to enhance your tops tees, with colourful and bright, NO Fading! 85% Polyester, 10% Cotton, 5% Elastane. Machine Wash",
+      "id": 13,
+      "image": "https://sp.yimg.com/ib/th?id=OPE.orfIaOrUSrMdwQ300C300&pid=21.1",
+      "name": "Great Britain Union",
+      "price": 748000
+    },
+    {
+      "cat_id": 4,
+      "detail": "45% Cotton, 22% Tencell, 21% Polyester, 10% Viscose, 2% Elastane. Machine Wash. Fastening: Zipper.",
+      "id": 14,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.GBfkbQCq_PVQCmvCiQV0AwHaLE&pid=Api&P=0&w=106&h=159",
+      "name": "Cross Jeans Men's",
+      "price": 1048000
+    },
+    {
+      "cat_id": 4,
+      "detail": "Levi's 501 combine function and style, these original fit jeans are comfortable and built to last, just as they were originally in 1873.",
+      "id": 15,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.tIb_jQdR3vlE2DSTiETFAAHaLH&pid=Api&P=0&w=106&h=160",
+      "name": "Levi's Men's Jeans",
+      "price": 2148000
+    },
+    {
+      "cat_id": 4,
+      "detail": "Mens Fancy plain Straight leg Denim jeans. Mens Black Blue Classic Fancy Denim Jeans All Waist Sizes.",
+      "id": 16,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.3yxweLjg57R9jVRdI2jRqwHaHa&pid=Api&P=0&w=158&h=158",
+      "name": "Jeans Classic Straight Leg",
+      "price": 948000
+    },
+    {
+      "cat_id": 4,
+      "detail": "No details of this item yet.",
+      "id": 17,
+      "image": "https://tse4.mm.bing.net/th?id=OIP.WOcWzAVWPCyXiAH1xNwxjgHaHa&pid=Api&P=0&w=157&h=157",
+      "name": "Fit Jeans In Blue",
+      "price": 1648000
+    }
+  ]
+}
